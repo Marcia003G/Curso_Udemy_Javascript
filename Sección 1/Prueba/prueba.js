@@ -1,0 +1,5 @@
+console.log("Hola")
+console.log("Adios")
+console.log("Nombre")
+console.log("Fecha")
+console.log("Curso")
